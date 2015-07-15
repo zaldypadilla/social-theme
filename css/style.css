@@ -1,3 +1,20 @@
-body {
-  padding-top: 50px;
+header {
+	background-image: linear-gradient(#04519b, #044687 60%, #033769);
+	color: #fff;
+	padding-top: 20px;
+	min-height: 100px;
+}
+
+header form {
+	float: right;
+}
+
+header .logo {
+	float: left;
+}
+
+.panel-heading {
+	background-image: linear-gradient(#04519b, #044687 60%, #033769);
+	color: #fff !important;
+
 }
